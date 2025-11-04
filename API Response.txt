@@ -1,0 +1,2070 @@
+{
+    "success": true,
+    "message": "Get Category Data!",
+    "sortedData": [
+        {
+            "createdAt": 1752133264191,
+            "categoryName": "Basic Needs",
+            "id": "223b9668-c81f-43d5-9d71-6061115e3a64",
+            "subCategories": [
+                {
+                    "name": "Food & Water",
+                    "resourceItems": [
+                        "Non-perishable food packs",
+                        "Canned goods",
+                        "White rice",
+                        "Brown rice",
+                        "Dried beans",
+                        "Powdered milk",
+                        "Infant formula",
+                        "Baby food jars",
+                        "Baby food pouches",
+                        "Ready-to-eat meals (MREs)",
+                        "High-calorie nutrition bars",
+                        "Meal replacement packets",
+                        "Cooking utensils",
+                        "Portable stoves",
+                        "Solid fuel tablets",
+                        "Propane canisters",
+                        "Charcoal bricks",
+                        "Matches",
+                        "Lighters",
+                        "Manual can openers",
+                        "Reusable food containers",
+                        "Biodegradable cutlery sets",
+                        "Thermos or insulated food jars",
+                        "Baby bottle sterilizers",
+                        "Reusable baby bottles",
+                        "Formula mixing bottles",
+                        "Community kitchen equipment",
+                        "Dry food storage containers",
+                        "Cooking oil",
+                        "Instant noodles",
+                        "Salt, sugar, and basic spices",
+                        "Bottled water",
+                        "Water jugs (1L, 5L, etc.)",
+                        "Collapsible water containers",
+                        "Water purification tablets",
+                        "Water purification filters",
+                        "Ceramic water filters",
+                        "UV water purifiers",
+                        "Gravity-fed water filter systems",
+                        "Portable water filtration straws",
+                        "Water testing kits (basic)",
+                        "Rainwater collection barrels",
+                        "Water transport carts",
+                        "Community water storage tanks",
+                        "Water delivery canisters",
+                        "Large-scale water dispensers",
+                        "Solar water disinfection kits",
+                        "Chlorination kits",
+                        "Reusable water bottles",
+                        "Hand pumps for water wells",
+                        "Water purification drops (liquid chlorine or iodine)",
+                        "Drinking water coolers (manual or electric)"
+                    ]
+                },
+                {
+                    "name": "Shelter",
+                    "resourceItems": [
+                        "Family-sized tents",
+                        "Temporary shelter kits",
+                        "Tarpaulins",
+                        "Plastic sheeting",
+                        "Sleeping bags",
+                        "Insulated sleeping mats",
+                        "Thermal blankets",
+                        "Quilts",
+                        "Mosquito nets",
+                        "Wood (for shelter construction)",
+                        "Corrugated metal sheets",
+                        "Nails and basic fasteners",
+                        "Hammer and manual tools for shelter setup",
+                        "Ropes or tie-down kits",
+                        "Emergency plastic dome shelters",
+                        "Shelter frame kits (modular or pre-fab)",
+                        "Foldable privacy partitions",
+                        "Emergency tent flooring",
+                        "Portable room dividers",
+                        "Thermal insulation panels",
+                        "Weatherproof tent covers",
+                        "Rainproof shelter tarps",
+                        "Shelter lighting kits (solar-powered)",
+                        "Mobile shelter trailers (for temporary relocation efforts)"
+                    ]
+                },
+                {
+                    "name": "Clothing & Bedding",
+                    "resourceItems": [
+                        "Seasonal clothing packs",
+                        "Jackets (adult)",
+                        "Jackets (children)",
+                        "Sweaters and hoodies",
+                        "Long-sleeve shirts",
+                        "T-shirts",
+                        "Undergarments (men, women, children)",
+                        "Socks (thermal and regular)",
+                        "Gloves (winter, work)",
+                        "Hats and beanies",
+                        "Scarves",
+                        "Sturdy shoes (adult)",
+                        "Sturdy shoes (children)",
+                        "Waterproof boots",
+                        "Flip-flops or sandals",
+                        "Infant clothing bundles (onesies, hats, mittens)",
+                        "Toddler clothing bundles",
+                        "Pajamas (all ages)",
+                        "Raincoats or ponchos",
+                        "Workwear or uniforms",
+                        "Laundry bags",
+                        "Blankets (fleece)",
+                        "Blankets (wool)",
+                        "Bed sheets",
+                        "Pillows",
+                        "Pillowcases",
+                        "Sleeping mats (foam)",
+                        "Inflatable sleeping mats",
+                        "Mattresses (portable or foam)",
+                        "Baby blankets",
+                        "Sleeping bags",
+                        "Mosquito nets",
+                        "Thermal sleeping covers",
+                        "Mattress covers or protectors",
+                        "Foldable cots",
+                        "Emergency sleeping kits",
+                        "Privacy bed nets"
+                    ]
+                },
+                {
+                    "name": "Hygiene & Sanitation",
+                    "resourceItems": [
+                        "Soap bars",
+                        "Liquid soap",
+                        "Shampoo",
+                        "Toothbrushes",
+                        "Toothpaste",
+                        "Combs",
+                        "Hairbrushes",
+                        "Nail clippers",
+                        "Towels",
+                        "Washcloths",
+                        "Deodorant",
+                        "Razors",
+                        "Shaving cream",
+                        "Shower sandals",
+                        "Refillable soap dispensers",
+                        "Sanitary pads",
+                        "Reusable menstrual cups",
+                        "Menstrual underwear",
+                        "Panty liners",
+                        "Period pain relief packs (heating pads, OTC meds)",
+                        "STI self-test kits",
+                        "Contraceptive supplies (condoms, birth control pills)",
+                        "Personal wipes (non-baby-specific)",
+                        "Disposable diapers (baby)",
+                        "Cloth diapers (baby)",
+                        "Diaper cream",
+                        "Baby wipes",
+                        "Reusable baby changing pads",
+                        "Adult diapers",
+                        "Bed pads (absorbent sheets)",
+                        "Barrier creams for skin protection",
+                        "Laundry detergent",
+                        "Disinfectant wipes",
+                        "Multipurpose surface cleaners",
+                        "Bleach",
+                        "Toilet brushes",
+                        "Scrub brushes",
+                        "Cleaning gloves",
+                        "Trash bags (small)",
+                        "Trash bags (large)",
+                        "Mops and mop buckets",
+                        "Brooms and dustpans",
+                        "Portable toilets",
+                        "Basic latrine kits",
+                        "Toilet paper",
+                        "Handwashing stations",
+                        "Buckets with taps",
+                        "Portable wash basins",
+                        "Liquid hand soap",
+                        "Hand sanitizer",
+                        "Soap holders or dispensers",
+                        "Drainage or waste disposal containers",
+                        "Foot pedal trash bins"
+                    ]
+                },
+                {
+                    "name": "Other Essentials",
+                    "resourceItems": [
+                        "Solar lanterns",
+                        "LED flashlights",
+                        "Hand-crank flashlights",
+                        "Headlamps (battery or rechargeable)",
+                        "Emergency light bulbs",
+                        "Glow sticks",
+                        "Kerosene lanterns",
+                        "Motion-sensor safety lights",
+                        "Flashlight batteries (AA, AAA, D)",
+                        "Rechargeable battery packs (power banks)",
+                        "Solar chargers for small devices",
+                        "Portable solar panels",
+                        "USB wall chargers (multi-port)",
+                        "Universal charging cables",
+                        "Battery storage boxes",
+                        "Backup power banks with hand crank",
+                        "Solar-powered USB hubs",
+                        "Basic cookware sets (pots, pans)",
+                        "Cooking knives",
+                        "Cutting boards",
+                        "Cooking spoons and utensils",
+                        "Manual can openers",
+                        "Portable camp stoves",
+                        "Fire-starting kits",
+                        "Matches",
+                        "Windproof lighters",
+                        "Heatproof gloves",
+                        "Cooking tripods or grill stands",
+                        "Propane cylinders",
+                        "Charcoal bricks",
+                        "Biomass briquettes",
+                        "Solid fuel tablets",
+                        "Firewood bundles",
+                        "Butane canisters",
+                        "Kerosene",
+                        "Alcohol fuel",
+                        "Multi-purpose tool kits",
+                        "Pocket knives",
+                        "Hand tool kits (hammer, screwdriver, pliers)",
+                        "Rope and bungee cord sets",
+                        "Folding shovel",
+                        "Utility scissors or trauma shears",
+                        "Duct tape or repair tape",
+                        "Small hardware kits (screws, nails, zip ties)",
+                        "Hand-crank emergency radio",
+                        "Emergency whistles",
+                        "Maps or printed guides",
+                        "Bicycles (adult)",
+                        "Bicycles (child)",
+                        "Bicycle helmets",
+                        "Bicycle repair kits",
+                        "Bicycle locks",
+                        "Folding carts or trolleys",
+                        "Travel backpacks or carry packs",
+                        "Reusable shopping bags or totes",
+                        "Reflective safety vests",
+                        "Compact rain covers for bags/bikes"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133265118,
+            "categoryName": "Healthcare",
+            "id": "4e569f8f-b1d0-4bae-83de-cef06fa43398",
+            "subCategories": [
+                {
+                    "name": "Medical Supplies",
+                    "resourceItems": [
+                        "Standard first aid kits",
+                        "Bandages",
+                        "Gauze rolls and pads",
+                        "Antiseptic wipes or solutions",
+                        "Medical scissors",
+                        "Trauma dressings",
+                        "Tourniquets",
+                        "Splints",
+                        "Syringes",
+                        "Surgical gloves",
+                        "IV drip sets",
+                        "Sterile gauze packs",
+                        "Sterile gloves"
+                    ]
+                },
+                {
+                    "name": "Protective Equipment",
+                    "resourceItems": [
+                        "Disposable gloves",
+                        "Surgical masks",
+                        "N95 respirators",
+                        "Protective gowns",
+                        "Face shields",
+                        "Disposable shoe covers",
+                        "Hair caps or bouffant caps"
+                    ]
+                },
+                {
+                    "name": "Diagnostic and Test Kits",
+                    "resourceItems": [
+                        "Blood sugar monitors",
+                        "Glucose test strips",
+                        "Malaria rapid test kits",
+                        "Pregnancy test kits",
+                        "HIV rapid test kits",
+                        "Digital thermometers",
+                        "Infrared thermometers",
+                        "Pulse oximeters",
+                        "Otoscopes"
+                    ]
+                },
+                {
+                    "name": "Birthing and Reproductive Kits",
+                    "resourceItems": [
+                        "Birthing kits",
+                        "Umbilical scissors",
+                        "Sterile gloves for delivery",
+                        "Sanitary pads for postpartum recovery",
+                        "Clean delivery pads",
+                        "Fetal dopplers"
+                    ]
+                },
+                {
+                    "name": "Medical Equipment",
+                    "resourceItems": [
+                        "Stethoscopes",
+                        "Blood pressure cuffs",
+                        "Portable ultrasound machines",
+                        "Nebulizers",
+                        "Oxygen concentrators",
+                        "Examination tables",
+                        "Patient gurneys",
+                        "Wheelchairs",
+                        "Crutches",
+                        "Autoclaves or sterilizers"
+                    ]
+                },
+                {
+                    "name": "Medication and Preventive Care",
+                    "resourceItems": [
+                        "Basic medication packs",
+                        "Pain relievers",
+                        "Antibiotics",
+                        "Fever reducers",
+                        "Oral rehydration salts (ORS)",
+                        "Anti-diarrheal treatments",
+                        "Nutrition supplements (vitamins, Plumpy'Nut)",
+                        "Insecticide-treated mosquito nets",
+                        "Water purification kits",
+                        "Condoms",
+                        "Birth control pills",
+                        "STI test kits"
+                    ]
+                },
+                {
+                    "name": "Clinic and Facility Supplies",
+                    "resourceItems": [
+                        "Hospital beds or cots",
+                        "Mattresses for hospital beds",
+                        "IV stands",
+                        "Infusion pumps",
+                        "Diagnostic equipment",
+                        "Blood glucose analyzers",
+                        "Otoscopes",
+                        "Ophthalmoscopes",
+                        "Generator kits for clinics",
+                        "Solar power kits for clinics",
+                        "Refrigerators for vaccines",
+                        "Ambulances or transport vans"
+                    ]
+                },
+                {
+                    "name": "Maternal and Child Health",
+                    "resourceItems": [
+                        "Newborn care kits",
+                        "Baby blankets",
+                        "Neonatal caps",
+                        "Baby thermometers",
+                        "Child immunization supplies",
+                        "Vaccine carriers",
+                        "Pediatric syringes",
+                        "Band-aids for children",
+                        "Prenatal vitamins",
+                        "Maternal nutrition supplements",
+                        "Delivery beds",
+                        "Fetal monitors",
+                        "Incubators"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133266034,
+            "categoryName": "Education",
+            "id": "b70731b7-3dd5-44e3-b59a-58a24ba8da69",
+            "subCategories": [
+                {
+                    "name": "School Supplies",
+                    "resourceItems": [
+                        "Notebooks",
+                        "Pens",
+                        "Pencils",
+                        "Erasers",
+                        "Pencil sharpeners",
+                        "Rulers",
+                        "Geometry sets",
+                        "Colored pencils",
+                        "Crayons",
+                        "Markers",
+                        "Drawing paper",
+                        "School bags",
+                        "Backpacks",
+                        "School uniforms",
+                        "Shirts (uniform)",
+                        "Pants or skirts (uniform)",
+                        "School shoes"
+                    ]
+                },
+                {
+                    "name": "Books and Learning Materials",
+                    "resourceItems": [
+                        "Subject textbooks (math, science, language, history)",
+                        "Reading books for children",
+                        "Story books",
+                        "Dictionaries",
+                        "Atlases",
+                        "Reference books (encyclopedias)",
+                        "Workbooks",
+                        "Practice exercise books",
+                        "Flash cards",
+                        "Educational games",
+                        "Alphabet charts",
+                        "Number blocks",
+                        "Early childhood activity kits"
+                    ]
+                },
+                {
+                    "name": "Classroom Furniture",
+                    "resourceItems": [
+                        "Student desks",
+                        "Student chairs",
+                        "Teacher desks",
+                        "Teacher chairs",
+                        "Whiteboards",
+                        "Blackboards",
+                        "Bulletin boards",
+                        "Bookshelves",
+                        "Lockable cabinets",
+                        "Fans for classrooms",
+                        "Heaters for classrooms"
+                    ]
+                },
+                {
+                    "name": "Educational Technology",
+                    "resourceItems": [
+                        "Student laptops",
+                        "Teacher laptops",
+                        "Tablets for students",
+                        "Tablets for teachers",
+                        "Classroom projectors",
+                        "Projection screens",
+                        "Classroom printers",
+                        "School photocopiers",
+                        "Educational software (installed)",
+                        "Language learning software",
+                        "Math learning software",
+                        "Solar charging kits (for classrooms)",
+                        "Audio-visual speakers",
+                        "Microphones for classrooms"
+                    ]
+                },
+                {
+                    "name": "Science and Vocational Tools",
+                    "resourceItems": [
+                        "Science lab kits",
+                        "Microscopes",
+                        "Beakers",
+                        "Test tubes",
+                        "Basic chemicals for teaching",
+                        "Anatomy models",
+                        "Solar system models",
+                        "Desktop computers (for computer labs)",
+                        "Networking equipment (routers, switches)",
+                        "Tool kits for woodworking",
+                        "Sewing machines for tailoring classes",
+                        "School gardening tools",
+                        "Seed kits for teaching agriculture",
+                        "Career guidebooks",
+                        "Career interest assessment tools"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133266777,
+            "categoryName": "Environmental Conservation",
+            "id": "fe375cad-1645-439d-bd48-178afe7b0835",
+            "subCategories": [
+                {
+                    "name": "Reforestation",
+                    "resourceItems": [
+                        "Tree saplings",
+                        "Tree seedlings",
+                        "Seed packages for native plants",
+                        "Seed packages for grasses",
+                        "Composting bins",
+                        "Compost starter kits",
+                        "Watering cans",
+                        "Seed trays",
+                        "Potting soil",
+                        "Planting spades",
+                        "Shovels",
+                        "Hoes"
+                    ]
+                },
+                {
+                    "name": "Land Restoration",
+                    "resourceItems": [
+                        "Soil enrichment materials",
+                        "Geotextiles for erosion control",
+                        "Sandbags",
+                        "Native shrub plantings",
+                        "Ground cover seeds",
+                        "Tree nursery tools"
+                    ]
+                },
+                {
+                    "name": "Wildlife Protection",
+                    "resourceItems": [
+                        "Wildlife camera traps",
+                        "GPS tracking collars",
+                        "Ranger patrol boots",
+                        "Anti-poaching drones",
+                        "Binoculars",
+                        "Tranquilizer dart kits",
+                        "Wildlife rescue nets",
+                        "Animal transport crates"
+                    ]
+                },
+                {
+                    "name": "Biodiversity Monitoring",
+                    "resourceItems": [
+                        "Nesting boxes",
+                        "Artificial reefs",
+                        "Field research kits",
+                        "Field notebooks",
+                        "GIS mapping tools"
+                    ]
+                },
+                {
+                    "name": "Clean Energy",
+                    "resourceItems": [
+                        "Solar panel kits",
+                        "Solar lanterns",
+                        "Wind turbine kits",
+                        "Small-scale wind generators",
+                        "Biogas digesters"
+                    ]
+                },
+                {
+                    "name": "Climate Action",
+                    "resourceItems": [
+                        "Weather stations",
+                        "Air quality monitors",
+                        "Carbon monitoring kits",
+                        "Temperature and humidity sensors",
+                        "Educational climate signage"
+                    ]
+                },
+                {
+                    "name": "Water Conservation",
+                    "resourceItems": [
+                        "Rainwater collection barrels",
+                        "Gutters for water harvesting",
+                        "Storage tanks",
+                        "Drip irrigation kits",
+                        "Moisture sensors",
+                        "Solar-powered irrigation pumps"
+                    ]
+                },
+                {
+                    "name": "Clean Water",
+                    "resourceItems": [
+                        "Ceramic water filters",
+                        "UV purification units",
+                        "Water quality testing kits",
+                        "Wetland restoration plants",
+                        "Wetland soil"
+                    ]
+                },
+                {
+                    "name": "Recycling",
+                    "resourceItems": [
+                        "Recycling bins",
+                        "Waste sorting containers",
+                        "Plastic shredders",
+                        "Plastic compactors",
+                        "Educational signage for recycling",
+                        "Posters and flyers"
+                    ]
+                },
+                {
+                    "name": "Waste Management",
+                    "resourceItems": [
+                        "Compost bins",
+                        "Compost starter kits",
+                        "Garbage cans",
+                        "Tricycle carts for collection",
+                        "Pickup carts",
+                        "Protective gloves",
+                        "Safety boots",
+                        "Protective masks"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133267495,
+            "categoryName": "Small Business Support",
+            "id": "e796f2c2-4cc1-4445-9ad6-1db32f257c46",
+            "subCategories": [
+                {
+                    "name": "Agriculture",
+                    "resourceItems": [
+                        "Seed packs",
+                        "Fertilizer packs",
+                        "Hand hoes",
+                        "Rakes",
+                        "Spades",
+                        "Irrigation pumps",
+                        "Drip irrigation sets",
+                        "Small greenhouse kits",
+                        "Shade netting for nurseries",
+                        "Tricycles for transporting produce",
+                        "Carts for transporting produce",
+                        "Beekeeping starter kits",
+                        "Beehives",
+                        "Protective beekeeping suits",
+                        "Bee smokers"
+                    ]
+                },
+                {
+                    "name": "Farming Tools",
+                    "resourceItems": [
+                        "Tilling tools",
+                        "Soil testers",
+                        "Compost bins for farms",
+                        "Manual seeders",
+                        "Watering hoses",
+                        "Crop sprayers"
+                    ]
+                },
+                {
+                    "name": "Crafts Businesses",
+                    "resourceItems": [
+                        "Sewing machines",
+                        "Tailoring kits",
+                        "Fabric bundles",
+                        "Thread spools",
+                        "Scissors",
+                        "Handloom kits",
+                        "Weaving frames",
+                        "Pottery wheels",
+                        "Ceramic kilns",
+                        "Leatherworking tools",
+                        "Leather hides and materials"
+                    ]
+                },
+                {
+                    "name": "Trade Businesses",
+                    "resourceItems": [
+                        "Carpentry tool sets",
+                        "Hammers",
+                        "Saws",
+                        "Drills",
+                        "Measuring tape",
+                        "Metalworking tools",
+                        "Welding kits",
+                        "Safety goggles",
+                        "Protective gloves"
+                    ]
+                },
+                {
+                    "name": "Retail Businesses",
+                    "resourceItems": [
+                        "Point-of-sale systems",
+                        "Tablets for transactions",
+                        "Cash registers",
+                        "Card readers",
+                        "Shelving units",
+                        "Storage racks",
+                        "Refrigerators for retail",
+                        "Coolers for food vending",
+                        "Packaging boxes",
+                        "Packaging bags",
+                        "Product labels",
+                        "Delivery motorcycles",
+                        "Delivery bicycles with cargo attachments"
+                    ]
+                },
+                {
+                    "name": "Service Businesses",
+                    "resourceItems": [
+                        "Cleaning mops",
+                        "Industrial brooms",
+                        "Vacuums for commercial cleaning",
+                        "Floor polishers",
+                        "Cleaning supply kits"
+                    ]
+                },
+                {
+                    "name": "Online Businesses",
+                    "resourceItems": [
+                        "Laptops for business use",
+                        "Desktop computers for operations",
+                        "Smartphones",
+                        "Professional cameras",
+                        "Lighting kits for content creation",
+                        "Printers",
+                        "Scanners",
+                        "Graphic design tablets",
+                        "Creative software (pre-installed)",
+                        "Portable Wi-Fi hotspot devices"
+                    ]
+                },
+                {
+                    "name": "Business Development",
+                    "resourceItems": [
+                        "Business startup kits",
+                        "Business plan templates",
+                        "Accounting ledger books",
+                        "Reference books on entrepreneurship",
+                        "Reference books on small business management",
+                        "Marketing material printing kits",
+                        "Flyers",
+                        "Business cards",
+                        "Signage banners",
+                        "Basic accounting software (on USB or devices)"
+                    ]
+                },
+                {
+                    "name": "Training and Workshops",
+                    "resourceItems": [
+                        "Projectors",
+                        "Projection screens",
+                        "Whiteboards",
+                        "Flip charts",
+                        "Co-working desks",
+                        "Co-working chairs",
+                        "Mobile whiteboards",
+                        "Training manuals",
+                        "Workshop guides"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133268223,
+            "categoryName": "Community Development",
+            "id": "4fd520ce-eb95-4eff-8dc1-d5b1f1dd212b",
+            "subCategories": [
+                {
+                    "name": "Infrastructure Construction",
+                    "resourceItems": [
+                        "Cement",
+                        "Bricks",
+                        "Lumber",
+                        "Metal roofing sheets",
+                        "Roofing nails",
+                        "Construction hammers",
+                        "Construction shovels",
+                        "Wheelbarrows",
+                        "Concrete well rings",
+                        "Hand pumps for wells",
+                        "Steel beams",
+                        "Wood for bridges or roads",
+                        "Concrete mix",
+                        "Solar street lights"
+                    ]
+                },
+                {
+                    "name": "Public Facilities",
+                    "resourceItems": [
+                        "Playground swings",
+                        "Playground slides",
+                        "Seesaws",
+                        "Park benches",
+                        "Outdoor seating sets",
+                        "Community sports equipment",
+                        "Soccer balls",
+                        "Goal posts",
+                        "Sports uniforms",
+                        "Community garden tools",
+                        "Garden seeds",
+                        "Garden fencing",
+                        "Public library bookshelves",
+                        "Library tables",
+                        "Library chairs",
+                        "Library starter book sets",
+                        "Community kitchen cooking pots",
+                        "Community kitchen utensils",
+                        "Serving dishes"
+                    ]
+                },
+                {
+                    "name": "Water Projects",
+                    "resourceItems": [
+                        "Borehole drilling equipment",
+                        "Funding packages for well installation",
+                        "Water storage tanks",
+                        "Water pipes",
+                        "Water faucets",
+                        "Handwashing containers",
+                        "Handwashing taps",
+                        "Soap dispensers"
+                    ]
+                },
+                {
+                    "name": "Sanitation Projects",
+                    "resourceItems": [
+                        "Community latrine kits",
+                        "Pre-fabricated latrine slabs",
+                        "Latrine ventilation pipes",
+                        "Waste collection bins",
+                        "Trash disposal containers",
+                        "Composting toilet units"
+                    ]
+                },
+                {
+                    "name": "Community Training",
+                    "resourceItems": [
+                        "Projectors for training centers",
+                        "Training chairs",
+                        "Training tables",
+                        "Whiteboards for training use",
+                        "Chalkboards",
+                        "Adult literacy books",
+                        "Training manuals"
+                    ]
+                },
+                {
+                    "name": "Engagement and Communication",
+                    "resourceItems": [
+                        "Community radio transmitters",
+                        "Microphones for radio stations",
+                        "Solar power kits for radios",
+                        "Public notice boards",
+                        "Bulletin boards",
+                        "Portable tents for community events",
+                        "Folding chairs for gatherings",
+                        "Outreach signage or banners"
+                    ]
+                },
+                {
+                    "name": "Safety Services",
+                    "resourceItems": [
+                        "Fire extinguishers",
+                        "Fire hoses",
+                        "Firefighter helmets",
+                        "First aid station kits",
+                        "Medical stretchers",
+                        "Emergency sirens",
+                        "Community alarm systems",
+                        "Lifeguard vests",
+                        "Rescue rings",
+                        "Flashlights for patrols",
+                        "Reflective vests",
+                        "Community ropes for rescue",
+                        "Axes for emergency use",
+                        "Medical backpacks"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133269006,
+            "categoryName": "Social Services",
+            "id": "90d83fec-9d19-46ce-aa21-9dc39ec428d2",
+            "subCategories": [
+                {
+                    "name": "Homeless Support",
+                    "resourceItems": [
+                        "Foldable cots",
+                        "Sleeping mats",
+                        "Blankets for shelter beds",
+                        "Pillow sets for shelter beds",
+                        "Mobile shower trailers",
+                        "Portable shower kits",
+                        "Lockers for personal belongings",
+                        "Storage bins for personal belongings",
+                        "Large cooking pots for soup kitchens",
+                        "Serving ladles for shelters",
+                        "Food service trays",
+                        "Washing machines for shelters",
+                        "Dryers for shelters"
+                    ]
+                },
+                {
+                    "name": "Child Services",
+                    "resourceItems": [
+                        "Foster care starter kits",
+                        "Clothing bundles for foster children",
+                        "Toiletries for foster children",
+                        "School supply kits for foster children",
+                        "Car seats",
+                        "Strollers",
+                        "Cribs",
+                        "Baby bassinets",
+                        "Diapers",
+                        "Baby formula",
+                        "Baby care supplies",
+                        "Toys for children in shelters",
+                        "Children’s books",
+                        "Board games for youth",
+                        "Backpacks for low-income children",
+                        "School supplies for low-income families"
+                    ]
+                },
+                {
+                    "name": "Crisis Shelter Support",
+                    "resourceItems": [
+                        "Bedding for safe houses",
+                        "Linens for crisis shelters",
+                        "CCTV security cameras",
+                        "Secure locks",
+                        "Stuffed animals for survivors",
+                        "Journals or notebooks for survivors",
+                        "Toiletry kits for survivors",
+                        "Change of clothes for shelter residents",
+                        "Emergency phones",
+                        "Prepaid cell phones",
+                        "Privacy room dividers"
+                    ]
+                },
+                {
+                    "name": "Recovery and Rehabilitation",
+                    "resourceItems": [
+                        "Beds for rehabilitation centers",
+                        "Chairs for therapy rooms",
+                        "Therapy room furnishings",
+                        "Addiction recovery workbooks",
+                        "Educational rehab materials",
+                        "Drug testing kits",
+                        "Treadmills for rehab",
+                        "Weights or resistance bands",
+                        "Art therapy supplies",
+                        "Music therapy tools",
+                        "Transportation vouchers",
+                        "Bicycles for clinic access"
+                    ]
+                },
+                {
+                    "name": "Outreach and Counseling",
+                    "resourceItems": [
+                        "Outreach backpacks (with water, socks, first aid)",
+                        "Vans for mobile outreach",
+                        "Vans for mobile clinics",
+                        "Telephones for hotlines",
+                        "Headsets for hotline workers",
+                        "Computers for call centers",
+                        "Social worker training manuals",
+                        "Printed counseling materials",
+                        "Pop-up tents for outreach events",
+                        "Folding tables for community fairs",
+                        "Snack packs for distribution",
+                        "Hygiene packs for outreach"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133269659,
+            "categoryName": "Disability Support",
+            "id": "136c98a2-4f62-40b9-852f-a9be3d85996f",
+            "subCategories": [
+                {
+                    "name": "Mobility Aids",
+                    "resourceItems": [
+                        "Manual wheelchairs (adult)",
+                        "Manual wheelchairs (child)",
+                        "Electric wheelchairs",
+                        "Mobility scooters",
+                        "Forearm crutches",
+                        "Underarm crutches",
+                        "Walkers with wheels",
+                        "Rollators with seats",
+                        "Prosthetic legs",
+                        "Prosthetic arms",
+                        "Prosthetic fitment kits",
+                        "Knee braces",
+                        "Back support braces",
+                        "Ankle-foot orthoses"
+                    ]
+                },
+                {
+                    "name": "Visual Aids",
+                    "resourceItems": [
+                        "White canes",
+                        "Braille writing slates",
+                        "Braille styluses",
+                        "Braille embossers",
+                        "Talking watches",
+                        "Talking clocks",
+                        "Screen reader software",
+                        "Compatible screen reader computers",
+                        "Large-print books",
+                        "High-contrast keyboards",
+                        "Magnifying desktop CCTV systems"
+                    ]
+                },
+                {
+                    "name": "Hearing Aids",
+                    "resourceItems": [
+                        "Hearing aids",
+                        "Hearing aid batteries",
+                        "Maintenance kits for hearing aids",
+                        "Personal sound amplification devices",
+                        "Sign language flashcards",
+                        "Sign language books",
+                        "Visual alert doorbells",
+                        "Vibrating alarm clocks",
+                        "FM assistive listening systems",
+                        "Loop systems for public venues",
+                        "Captioning display units"
+                    ]
+                },
+                {
+                    "name": "Cognitive and Developmental Aids",
+                    "resourceItems": [
+                        "Fidget spinners",
+                        "Sensory mats",
+                        "Chewable jewelry",
+                        "Weighted blankets",
+                        "Weighted vests",
+                        "Communication boards",
+                        "Picture card sets",
+                        "Speech-generating tablets",
+                        "Educational software for cognitive therapy",
+                        "Tablets with cognitive apps",
+                        "Adaptive switches",
+                        "Adaptive control devices"
+                    ]
+                },
+                {
+                    "name": "Accessibility Equipment",
+                    "resourceItems": [
+                        "Portable wheelchair ramps",
+                        "Bathroom grab bars",
+                        "Hallway handrails",
+                        "Adjustable-height desks",
+                        "Adjustable-height chairs",
+                        "Voice-activated lights",
+                        "Voice-controlled thermostats",
+                        "One-handed keyboards",
+                        "One-handed mice",
+                        "Closed-circuit television magnifiers",
+                        "Doorway widening tools or kits"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133270440,
+            "categoryName": "Arts and Culture",
+            "id": "595495c3-7c88-4df8-a4fc-fe4d7e6aa897",
+            "subCategories": [
+                {
+                    "name": "Visual Arts",
+                    "resourceItems": [
+                        "Acrylic paints",
+                        "Oil paints",
+                        "Paintbrushes",
+                        "Canvas sheets",
+                        "Easels",
+                        "Sketch pads",
+                        "Drawing pencils",
+                        "Charcoal sticks",
+                        "Markers",
+                        "Clay (air-dry or kiln-based)",
+                        "Sculpting tools",
+                        "Pottery kilns",
+                        "Linoleum blocks",
+                        "Carving tools",
+                        "Printmaking ink",
+                        "Brayers",
+                        "Digital cameras",
+                        "Photography tripods",
+                        "Lighting kits for photography",
+                        "Art storage racks",
+                        "Art portfolios"
+                    ]
+                },
+                {
+                    "name": "Music and Performing Arts",
+                    "resourceItems": [
+                        "Guitars",
+                        "Violins",
+                        "Keyboards",
+                        "Drums",
+                        "Flutes",
+                        "Brass instruments (for bands)",
+                        "Percussion sets (for bands)",
+                        "Sheet music",
+                        "Music books",
+                        "Microphones",
+                        "Amplifiers",
+                        "Speakers",
+                        "Audio interfaces for recording",
+                        "Recording microphones",
+                        "Dance costumes",
+                        "Theatrical costumes",
+                        "Portable stage kits",
+                        "Portable lighting kits"
+                    ]
+                },
+                {
+                    "name": "Cultural Preservation",
+                    "resourceItems": [
+                        "Acid-free archival boxes",
+                        "Photo/document sleeves",
+                        "UV-protective glass",
+                        "Conservation brushes",
+                        "Restoration solvents",
+                        "Display cases",
+                        "Traditional weaving looms",
+                        "Traditional carving tools",
+                        "Document scanners",
+                        "Film conversion tools",
+                        "Voice recorders",
+                        "Transcription tools"
+                    ]
+                },
+                {
+                    "name": "Community Arts Programs",
+                    "resourceItems": [
+                        "Bead kits",
+                        "Fabric for craft workshops",
+                        "Jewelry-making tools",
+                        "Paint and brushes for murals",
+                        "Scaffolding for murals",
+                        "Portable tents for art outreach",
+                        "Folding tables for art events",
+                        "Public mural paint sets",
+                        "Instruments for school bands",
+                        "Instruments for community bands",
+                        "Film projectors",
+                        "Projection screens",
+                        "Costumes for community theater",
+                        "Props for theater groups"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133271184,
+            "categoryName": "Youth Development",
+            "id": "82c67cb3-2c23-4717-9f0c-cfd8bf7e1004",
+            "subCategories": [
+                {
+                    "name": "After-School Help",
+                    "resourceItems": [
+                        "After-school tutoring workbooks",
+                        "Flashcards for review",
+                        "Stationery kits (pens, paper, etc.)",
+                        "Homework support guides",
+                        "Academic enrichment materials",
+                        "Literacy development books"
+                    ]
+                },
+                {
+                    "name": "Sports and Recreation",
+                    "resourceItems": [
+                        "Soccer balls",
+                        "Basketballs",
+                        "Volleyballs",
+                        "Sports nets",
+                        "Youth team uniforms",
+                        "Sports shoes",
+                        "Helmets (biking, skating, etc.)",
+                        "Knee pads",
+                        "Elbow pads",
+                        "Jump ropes",
+                        "Frisbees",
+                        "Hula hoops",
+                        "Camping tents",
+                        "Sleeping bags",
+                        "Camping lanterns",
+                        "Youth bicycles",
+                        "Bicycle helmets"
+                    ]
+                },
+                {
+                    "name": "Skill Development",
+                    "resourceItems": [
+                        "Leadership training kits",
+                        "Team-building games",
+                        "Problem-solving puzzles",
+                        "Debate kits (podiums, timers, topic cards)",
+                        "Scouting materials (handbooks, badges, camping gear)",
+                        "Volunteer project kits (gloves, trash bags, basic tools)",
+                        "Financial literacy games",
+                        "Budgeting kits",
+                        "Public speaking aids",
+                        "Small PA systems"
+                    ]
+                },
+                {
+                    "name": "Entrepreneurship",
+                    "resourceItems": [
+                        "Teen entrepreneurship kits",
+                        "Business plan workbooks",
+                        "Budgeting games",
+                        "Scholarship fund materials",
+                        "Application forms",
+                        "Information packets for scholarships",
+                        "Career guidance books",
+                        "Vocational training manuals",
+                        "Language learning software for kids",
+                        "Bilingual children’s books"
+                    ]
+                },
+                {
+                    "name": "Creative and Cultural Activities",
+                    "resourceItems": [
+                        "Youth art supplies (sketchbooks, paints, craft materials)",
+                        "Musical instruments for youth (recorders, hand drums, ukuleles)",
+                        "Drama club supplies (scripts, costumes, portable props)",
+                        "STEM club kits (chemistry sets, math puzzles, electronics)",
+                        "Library corner furniture (bookshelves, bean bag chairs)",
+                        "Age-appropriate books",
+                        "Photography cameras for youth",
+                        "Voice recorders for youth media"
+                    ]
+                },
+                {
+                    "name": "Mentorship and Club Resources",
+                    "resourceItems": [
+                        "Folding chairs for club meetings",
+                        "Folding tables",
+                        "Mentorship starter kits",
+                        "Notebooks for mentoring",
+                        "Goal-setting journals",
+                        "Board games (educational and recreational)",
+                        "Snacks for youth events",
+                        "Refreshments for youth gatherings",
+                        "Projectors for workshops",
+                        "Projection screens",
+                        "Award certificates",
+                        "Certificate printing supplies (printer and paper)"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133272074,
+            "categoryName": "Emergency Relief & Response",
+            "id": "6ac2ee0c-1f1b-458b-9edf-b152aa9262d0",
+            "subCategories": [
+                {
+                    "name": "Immediate Relief Supplies",
+                    "resourceItems": [
+                        "Bottled water for distribution",
+                        "Water containers (portable, refillable)",
+                        "Emergency food rations (MREs)",
+                        "High-calorie biscuit packs",
+                        "Ready-to-eat canned food",
+                        "Manual can openers",
+                        "Infant formula",
+                        "Baby food pouches",
+                        "Diapers (all sizes)",
+                        "Infant care packs (combined kits)",
+                        "Hygiene kits (soap, toothbrush, toothpaste, wipes, sanitizer)",
+                        "Sanitation wipes",
+                        "Tarps for emergency cover",
+                        "Plastic sheets for ground cover or shelters"
+                    ]
+                },
+                {
+                    "name": "Shelter Relief",
+                    "resourceItems": [
+                        "Family tents",
+                        "Temporary shelter kits",
+                        "Sleeping mats",
+                        "Bedding sets (blankets, pillows, sheets)",
+                        "Thermal emergency blankets (space blankets)",
+                        "Camp cooking sets",
+                        "Portable stoves for camps",
+                        "Fuel canisters for portable stoves",
+                        "Portable heaters (non-electric)",
+                        "Stoves for cold climates",
+                        "Prefabricated housing units",
+                        "Transitional shelter materials"
+                    ]
+                },
+                {
+                    "name": "Medical Relief",
+                    "resourceItems": [
+                        "Emergency first aid kits",
+                        "Trauma kits",
+                        "Medical clinic tents",
+                        "Pop-up medical shelters",
+                        "PPE kits (masks, gloves, gowns)",
+                        "Face masks (N95, surgical)",
+                        "Water purification kits (portable filters)",
+                        "Chlorination tablets",
+                        "Oral rehydration salts (ORS)",
+                        "Water containers for rehydration"
+                    ]
+                },
+                {
+                    "name": "Sanitation Relief",
+                    "resourceItems": [
+                        "Portable toilets",
+                        "Sanitation kits (waste bags, disinfectant)",
+                        "Disinfectant sprays or wipes",
+                        "Soap and hygiene items",
+                        "Handwashing basins for field use",
+                        "Mobile hand sanitizing stations"
+                    ]
+                },
+                {
+                    "name": "Search and Rescue Equipment",
+                    "resourceItems": [
+                        "Rescue boats",
+                        "Inflatable rafts",
+                        "Life jackets (child and adult sizes)",
+                        "Rescue ropes",
+                        "Harnesses for rescue",
+                        "Carabiners for structural access",
+                        "Hard hats for disaster teams",
+                        "Protective gloves",
+                        "Safety boots",
+                        "Emergency locator beacons",
+                        "Whistles for signaling",
+                        "Chainsaws for debris removal",
+                        "Debris clearing hand tools"
+                    ]
+                },
+                {
+                    "name": "Emergency Power and Communication",
+                    "resourceItems": [
+                        "Portable generators",
+                        "Solar phone chargers",
+                        "Power banks",
+                        "Two-way radios",
+                        "Satellite phones",
+                        "Megaphones",
+                        "Loudspeakers",
+                        "Battery chargers",
+                        "Battery packs (assorted types)"
+                    ]
+                },
+                {
+                    "name": "Recovery and Rebuilding",
+                    "resourceItems": [
+                        "Rebuilding tool kits (hammers, nails, saws, screwdrivers)",
+                        "Lumber for repairs",
+                        "Roofing sheets",
+                        "Tar for sealing leaks",
+                        "Concrete mix",
+                        "Cleaning supplies (bleach, mops, buckets)",
+                        "Replacement bedding",
+                        "Replacement cookware",
+                        "Replacement household furniture (tables, chairs, etc.)",
+                        "School-in-a-box kits",
+                        "Psycho-social support kits (toys, games, comfort items)"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133273815,
+            "categoryName": "Animal Welfare",
+            "id": "3135dfc4-4c72-4cc8-8473-9091d5354430",
+            "subCategories": [
+                {
+                    "name": "Animal Shelters",
+                    "resourceItems": [
+                        "Dry pet food (dogs and cats)",
+                        "Wet pet food (dogs and cats)",
+                        "Animal transport crates",
+                        "Pet carriers",
+                        "Dog leashes",
+                        "Dog collars",
+                        "Dog harnesses",
+                        "Animal bedding",
+                        "Blankets for shelter animals",
+                        "Feeding bowls",
+                        "Water dishes",
+                        "Pet toys (balls, chew toys, ropes)",
+                        "Enrichment items (scratching posts, tunnels, puzzle toys)"
+                    ]
+                },
+                {
+                    "name": "Veterinary Supplies",
+                    "resourceItems": [
+                        "Veterinary medical kits (bandages, antiseptic, wound care)",
+                        "Pet vaccines (rabies, distemper, parvovirus)",
+                        "Spay surgical kits",
+                        "Neuter surgical kits",
+                        "Microchip implants",
+                        "Microchip scanners",
+                        "Deworming tablets",
+                        "Flea treatment packs",
+                        "Tick control packs",
+                        "Portable exam tables",
+                        "Pet weighing scales",
+                        "Disposable gloves and gowns (vet use)"
+                    ]
+                },
+                {
+                    "name": "Livestock Care",
+                    "resourceItems": [
+                        "Livestock feed (hay, grain)",
+                        "Fencing materials (wire, posts, gates)",
+                        "Metal sheds for animal housing",
+                        "Barn roofing tarps",
+                        "Water troughs",
+                        "Feeding troughs",
+                        "Drench guns",
+                        "Calving kits",
+                        "Livestock thermometers",
+                        "Incubators for poultry",
+                        "Poultry brooder lamps"
+                    ]
+                },
+                {
+                    "name": "Wildlife Conservation",
+                    "resourceItems": [
+                        "Wildlife rehabilitation kits (incubators, feeding bottles)",
+                        "Field vet kits for wildlife",
+                        "Tracking cameras",
+                        "Drones for monitoring wildlife",
+                        "Ranger boots",
+                        "First aid kits for rangers",
+                        "GPS units for patrol teams",
+                        "Anti-poaching signage",
+                        "Awareness posters and materials",
+                        "Enrichment structures (climbing platforms, perches)",
+                        "Habitat water features (ponds, pools)"
+                    ]
+                },
+                {
+                    "name": "Community Animal Programs",
+                    "resourceItems": [
+                        "Community dog vaccination kits",
+                        "Syringes for animal vaccines",
+                        "Vaccination record cards",
+                        "Feeding stations for stray animals",
+                        "Outdoor animal shelters",
+                        "Educational pamphlets on pet care",
+                        "Animal care posters",
+                        "Therapy animal training harnesses",
+                        "Obstacle course items (tunnels, jumps)",
+                        "Mobile vet van equipment",
+                        "Tables for adoption events",
+                        "Pop-up tents for animal outreach",
+                        "Animal transport vans"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133274640,
+            "categoryName": "Tech Access & Inclusion",
+            "id": "e262bd96-9a0d-4f5c-9ca1-5f5e44f5cca9",
+            "subCategories": [
+                {
+                    "name": "Computers",
+                    "resourceItems": [
+                        "Laptop",
+                        "Chromebook",
+                        "Desktop computer",
+                        "Computer monitor",
+                        "Tablet",
+                        "Smartphone"
+                    ]
+                },
+                {
+                    "name": "Computer Accessories",
+                    "resourceItems": [
+                        "Mouse",
+                        "Keyboard",
+                        "Headset",
+                        "Webcam",
+                        "USB hub",
+                        "Surge protector"
+                    ]
+                },
+                {
+                    "name": "Printing and Scanning Devices",
+                    "resourceItems": [
+                        "Printer",
+                        "Scanner",
+                        "Copier",
+                        "Multi-function printer",
+                        "Printer ink",
+                        "Printer toner",
+                        "Printer paper"
+                    ]
+                },
+                {
+                    "name": "Internet Access",
+                    "resourceItems": [
+                        "Wi-Fi router",
+                        "Network extender",
+                        "Mobile hotspot",
+                        "Satellite internet kit",
+                        "Network cable",
+                        "Ethernet switch",
+                        "Smartphone projector",
+                        "Uninterruptible power supply (UPS)"
+                    ]
+                },
+                {
+                    "name": "Assistive Technology",
+                    "resourceItems": [
+                        "Screen reader device",
+                        "Screen reader software",
+                        "Braille display",
+                        "Adaptive keyboard",
+                        "Adaptive mouse",
+                        "Amplified headset",
+                        "Teletypewriter",
+                        "Eye-tracking device",
+                        "Speech-to-text software",
+                        "Speech microphone"
+                    ]
+                },
+                {
+                    "name": "Community Tech Centers",
+                    "resourceItems": [
+                        "Computer desk",
+                        "Ergonomic chair",
+                        "Lockable cabinet",
+                        "Projector",
+                        "Whiteboard",
+                        "Generator",
+                        "Solar panel kit",
+                        "Charging station",
+                        "USB drive (pre-loaded)",
+                        "Memory card (pre-loaded)",
+                        "3D printer",
+                        "Maker space kit"
+                    ]
+                },
+                {
+                    "name": "Digital Training",
+                    "resourceItems": [
+                        "Technology manual",
+                        "Electronics kit",
+                        "Virtual reality headset",
+                        "Coding robot",
+                        "Smartphone repair kit",
+                        "Online course access card",
+                        "Offline training content pack"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133275454,
+            "categoryName": "Elderly Care & Services",
+            "id": "b624eb37-b88a-481e-ad80-a46324658b89",
+            "subCategories": [
+                {
+                    "name": "Mobility Aids",
+                    "resourceItems": [
+                        "Manual wheelchair",
+                        "Adjustable footrest wheelchair",
+                        "Walking cane",
+                        "Quad cane",
+                        "Walker",
+                        "Rollator",
+                        "Mobility scooter",
+                        "Transfer board",
+                        "Lift assist device",
+                        "Transportation van"
+                    ]
+                },
+                {
+                    "name": "Health Monitoring",
+                    "resourceItems": [
+                        "Blood pressure monitor",
+                        "Glucometer",
+                        "Glucose test strip",
+                        "Lancet",
+                        "Digital thermometer",
+                        "Infrared thermometer",
+                        "Pulse oximeter",
+                        "Home dialysis machine",
+                        "First aid kit for seniors"
+                    ]
+                },
+                {
+                    "name": "Home Safety",
+                    "resourceItems": [
+                        "Shower chair",
+                        "Bath bench",
+                        "Raised toilet seat",
+                        "Toilet safety rail",
+                        "Bathroom grab bar",
+                        "Hallway grab bar",
+                        "Non-slip mat",
+                        "Medical alert pendant",
+                        "Home alert base unit",
+                        "Security camera",
+                        "Video doorbell"
+                    ]
+                },
+                {
+                    "name": "Daily Living Aids",
+                    "resourceItems": [
+                        "Easy-open jar opener",
+                        "Easy-open bottle opener",
+                        "Adaptive utensil",
+                        "Angled spoon",
+                        "Swivel spoon",
+                        "Large-button telephone",
+                        "Large-button cell phone",
+                        "Weekly pill box",
+                        "Automatic pill dispenser",
+                        "Hearing aid",
+                        "Hearing aid battery",
+                        "Reading magnifier",
+                        "Reading glasses"
+                    ]
+                },
+                {
+                    "name": "Social and Recreational",
+                    "resourceItems": [
+                        "Puzzle book",
+                        "Large-print novel",
+                        "Board game",
+                        "Card game",
+                        "Senior art kit",
+                        "Knitting kit",
+                        "Adult coloring book",
+                        "Raised garden bed kit",
+                        "Garden tool set",
+                        "Music player",
+                        "Pre-loaded music device",
+                        "Resistance band",
+                        "Pedal exerciser"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133276311,
+            "categoryName": "Mental Health Support",
+            "id": "57baf3e6-09a4-4f24-8cfa-78bd7e5ec262",
+            "subCategories": [
+                {
+                    "name": "Therapeutic Tools",
+                    "resourceItems": [
+                        "Art therapy kit",
+                        "Coloring book",
+                        "Sculpting clay",
+                        "Play therapy doll",
+                        "Sand tray kit",
+                        "Therapy card deck",
+                        "CBT card deck",
+                        "Therapy journal",
+                        "Guided workbook",
+                        "Light therapy lamp",
+                        "Biofeedback device"
+                    ]
+                },
+                {
+                    "name": "Self-Care",
+                    "resourceItems": [
+                        "Meditation mat",
+                        "Yoga mat",
+                        "Instructional DVD",
+                        "Stress ball",
+                        "Fidget spinner",
+                        "Aromatherapy diffuser",
+                        "Essential oil set",
+                        "Weighted blanket",
+                        "White noise machine",
+                        "Relaxation audio player",
+                        "Mindfulness MP3 device",
+                        "Herbal tea kit",
+                        "Vitamin supplement kit"
+                    ]
+                },
+                {
+                    "name": "Counseling Equipment",
+                    "resourceItems": [
+                        "Counseling chair",
+                        "Counseling couch",
+                        "Soundproof panel",
+                        "White noise machine",
+                        "Group therapy chair",
+                        "Therapy floor cushion",
+                        "Projector for workshops",
+                        "Projection screen",
+                        "Mobile therapy van kit",
+                        "Coffee maker",
+                        "Water dispenser"
+                    ]
+                },
+                {
+                    "name": "Outreach and Education",
+                    "resourceItems": [
+                        "Mental health brochure",
+                        "Anti-stigma poster",
+                        "Peer counselor manual",
+                        "Community training manual",
+                        "Mental health first aid kit",
+                        "Crisis hotline phone",
+                        "Crisis hotline headset",
+                        "Hotline computer",
+                        "Public address system"
+                    ]
+                },
+                {
+                    "name": "Crisis Intervention",
+                    "resourceItems": [
+                        "Emergency psychiatric medication kit",
+                        "Crisis de-escalation kit",
+                        "Noise-canceling headphones",
+                        "Weighted lap pad",
+                        "Soft restraint",
+                        "Suicide prevention barrier",
+                        "Anti-ligature fixture",
+                        "Emergency stretcher",
+                        "Emergency wheelchair",
+                        "Defibrillator (AED)"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133277092,
+            "categoryName": "Food Security & Nutrition",
+            "id": "0599405b-01d9-41d8-b59f-3a57c3021b50",
+            "subCategories": [
+                {
+                    "name": "Agricultural Inputs",
+                    "resourceItems": [
+                        "Seed pack",
+                        "Organic fertilizer",
+                        "Composting kit",
+                        "Hoe",
+                        "Spade",
+                        "Sickle",
+                        "Hand tractor",
+                        "Tiller",
+                        "Pesticide sprayer",
+                        "Protective gear",
+                        "Soil testing kit"
+                    ]
+                },
+                {
+                    "name": "Irrigation Tools",
+                    "resourceItems": [
+                        "Drip irrigation kit",
+                        "Irrigation tubing",
+                        "Drip emitters",
+                        "Connectors",
+                        "Solar irrigation pump",
+                        "Water storage tank",
+                        "Treadle pump",
+                        "Sprinkler system",
+                        "Rain gauge",
+                        "Moisture sensor"
+                    ]
+                },
+                {
+                    "name": "Livestock Farming",
+                    "resourceItems": [
+                        "Chicken",
+                        "Goat",
+                        "Livestock starter kit",
+                        "Chicken coop",
+                        "Goat pen",
+                        "Animal feeder",
+                        "Animal feed",
+                        "Fodder seeds",
+                        "Veterinary care kit",
+                        "Milk collection equipment",
+                        "Milk pasteurizer",
+                        "Beehive",
+                        "Beekeeping kit"
+                    ]
+                },
+                {
+                    "name": "Food Processing",
+                    "resourceItems": [
+                        "Grain silo",
+                        "Plastic storage bag",
+                        "Food drying rack",
+                        "Solar dehydrator",
+                        "Grain mill",
+                        "Rice mill",
+                        "Oil press machine",
+                        "Canning kit",
+                        "Food preservation kit",
+                        "Cold storage unit",
+                        "Solar refrigerator"
+                    ]
+                },
+                {
+                    "name": "Nutrition Programs",
+                    "resourceItems": [
+                        "School feeding equipment",
+                        "Cooking pot",
+                        "Serving tray",
+                        "Fortified nutrition pack",
+                        "Porridge mix",
+                        "High-energy biscuit",
+                        "Kitchen stove",
+                        "Kitchen sink",
+                        "Ventilation hood",
+                        "Nutrition sachet",
+                        "Micronutrient powder",
+                        "Cooking demonstration kit",
+                        "Nutrition education poster",
+                        "Nutrition recipe book"
+                    ]
+                },
+                {
+                    "name": "Food Distribution",
+                    "resourceItems": [
+                        "Food delivery motorbike",
+                        "Insulated food box",
+                        "Food pantry shelf",
+                        "Storage bin",
+                        "Refrigerated truck",
+                        "Refrigerated van",
+                        "Food package kit",
+                        "Crate",
+                        "Distribution bag",
+                        "Measuring scoop",
+                        "Portable canopy",
+                        "Folding table",
+                        "Meal delivery backpack",
+                        "Thermal food bag"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133277907,
+            "categoryName": "Veteran Support",
+            "id": "f5707ba4-a1b8-462e-9577-2027df52ed85",
+            "subCategories": [
+                {
+                    "name": "Basic Needs",
+                    "resourceItems": [
+                        "Transitional housing kit",
+                        "Bed (single)",
+                        "Bedding set",
+                        "Small kitchen appliance set",
+                        "Sofa",
+                        "Dining table",
+                        "Dining chairs",
+                        "Microwave",
+                        "Coffee maker",
+                        "Toaster",
+                        "Personal care kit",
+                        "Toiletries",
+                        "Socks",
+                        "Underwear",
+                        "Sleeping bag",
+                        "All-weather coat",
+                        "Grocery gift pack",
+                        "Non-perishable food pack"
+                    ]
+                },
+                {
+                    "name": "Medical Rehabilitation",
+                    "resourceItems": [
+                        "Prosthetic limb",
+                        "Prosthetic fitting kit",
+                        "Wheelchair",
+                        "Sport wheelchair",
+                        "All-terrain wheelchair",
+                        "Resistance band",
+                        "Therapy ball",
+                        "Balance board",
+                        "Stationary bike",
+                        "Dumbbells",
+                        "Hand cycle",
+                        "Adaptive gym equipment",
+                        "Medical alert system",
+                        "Emergency call button"
+                    ]
+                },
+                {
+                    "name": "Employment Training",
+                    "resourceItems": [
+                        "Laptop",
+                        "Certification textbook",
+                        "Practice equipment kit",
+                        "IT networking kit",
+                        "Mechanic tool set",
+                        "Carpentry tool set",
+                        "Suit voucher",
+                        "Work boot voucher",
+                        "Resume writing guide",
+                        "Resume software",
+                        "Small business starter kit",
+                        "Business plan book",
+                        "Office setup kit"
+                    ]
+                },
+                {
+                    "name": "Mental Health",
+                    "resourceItems": [
+                        "PTSD therapy workbook",
+                        "PTSD journal",
+                        "Group therapy chair",
+                        "Group therapy whiteboard",
+                        "Group session refreshment kit",
+                        "Service dog vest",
+                        "Service dog leash",
+                        "Dog training obstacle kit",
+                        "Music therapy instrument",
+                        "Art therapy kit",
+                        "Fishing gear",
+                        "Camping gear",
+                        "Transition guidebook",
+                        "Coping strategy book"
+                    ]
+                },
+                {
+                    "name": "Community Recognition",
+                    "resourceItems": [
+                        "Community center furniture",
+                        "Pool table",
+                        "Coffee machine",
+                        "Event flag",
+                        "Event bunting",
+                        "PA system",
+                        "Transportation van",
+                        "Wheelchair basketball chair",
+                        "Sled hockey sled",
+                        "Veteran awareness flyer",
+                        "Awareness banner",
+                        "Fitness tracker",
+                        "Smartwatch"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752133278655,
+            "categoryName": "Innovation & Entrepreneurship",
+            "id": "d63e0d43-261b-4ed2-8c5e-97ee7d0d7d5b",
+            "subCategories": [
+                {
+                    "name": "Prototyping Tools",
+                    "resourceItems": [
+                        "3D printer",
+                        "3D printer filament",
+                        "Electronics tool kit",
+                        "Soldering iron",
+                        "Multimeter",
+                        "Breadboard",
+                        "Arduino kit",
+                        "Raspberry Pi kit",
+                        "Power tool set",
+                        "Drill",
+                        "Dremel",
+                        "Hand tool kit",
+                        "Screwdriver",
+                        "Wrench",
+                        "Pliers",
+                        "CNC machine",
+                        "Laser cutter"
+                    ]
+                },
+                {
+                    "name": "Workspace Equipment",
+                    "resourceItems": [
+                        "Desk",
+                        "Ergonomic chair",
+                        "Conference table",
+                        "Router",
+                        "Networking switch",
+                        "Projector",
+                        "Projection screen",
+                        "Whiteboard",
+                        "Flip chart",
+                        "Brainstorming supply kit",
+                        "Office supply kit",
+                        "Notebook",
+                        "Planner",
+                        "Coffee machine",
+                        "Mini fridge"
+                    ]
+                },
+                {
+                    "name": "Learning Materials",
+                    "resourceItems": [
+                        "Entrepreneurship book",
+                        "Startup guide",
+                        "Online course access card",
+                        "Loaded tablet",
+                        "Business planning software",
+                        "Marketing book",
+                        "Design book",
+                        "Innovation workshop kit",
+                        "Design thinking cards",
+                        "Business model canvas",
+                        "Prototype materials",
+                        "Tech magazine subscription",
+                        "Industry magazine subscription"
+                    ]
+                },
+                {
+                    "name": "Tech Tools",
+                    "resourceItems": [
+                        "Laptop with dev tools",
+                        "Graphic design computer",
+                        "Video editing computer",
+                        "Smartphone for testing",
+                        "External hard drive",
+                        "NAS device",
+                        "POS device",
+                        "Retail tablet",
+                        "VR headset kit"
+                    ]
+                },
+                {
+                    "name": "Marketing Tools",
+                    "resourceItems": [
+                        "DSLR camera",
+                        "Video camera",
+                        "Trade show booth kit",
+                        "Custom T-shirt",
+                        "Custom sticker",
+                        "Brochure",
+                        "Presentation clicker",
+                        "Laser pointer",
+                        "Portable PA system",
+                        "Speaker",
+                        "Microphone",
+                        "Product sample bottle",
+                        "Product sample box",
+                        "Product label"
+                    ]
+                }
+            ]
+        },
+        {
+            "createdAt": 1752496448668,
+            "categoryName": "Test Category Two",
+            "id": "335d416e-f4ac-48de-b84a-b9e7370a0490",
+            "subCategories": [
+                {
+                    "name": "Test SubCategory One",
+                    "resourceItems": [
+                        "Test Resource 1",
+                        "Test Recourse 2",
+                        "Test Recourse 3"
+                    ]
+                },
+                {
+                    "name": "Test SubCategory Two",
+                    "resourceItems": [
+                        "Test Resource 1",
+                        "Test Recourse 2",
+                        "Test Recourse 3"
+                    ]
+                }
+            ]
+        }
+    ]
+}
